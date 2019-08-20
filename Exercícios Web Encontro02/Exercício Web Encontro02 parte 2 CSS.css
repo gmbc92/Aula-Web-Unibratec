@@ -1,0 +1,12 @@
+body{
+    font-size: 10px;
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+h1,h2,h3 {
+    color: red;
+}
+h1{
+    font-family: Tahoma, Verdana, Arial ou sans-serif;
+}

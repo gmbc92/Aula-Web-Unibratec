@@ -1,0 +1,88 @@
+#tabela{
+    border: 1px solid #DDDDDD;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color: #666666;
+    text-align: center;
+    width: 800px;
+    height: 800px;
+    margin-left: 600px;
+    
+    
+}
+.classificacao1{
+    color: #003366;
+    font-size: 18px;
+    text-align: center;
+    font-weight: 700;
+    background-color: white;
+}
+.classificacao2{
+    color: #1398BE;
+    font-size: 18px;
+    text-align: center;
+    font-weight: 700;
+}
+.classificacao3{
+    color: #DE9800;
+    font-size: 18px;
+    text-align: center;
+    font-weight: 700;
+}
+.classificacao4{
+    color: #CCCCCC;
+    font-size: 18px;
+    text-align: center;
+    font-weight: 700;
+}
+.classificacao5{
+    color: #C91B04;
+    font-size: 18px;
+    text-align: center;
+    font-weight: 700;
+}
+.titulosDeColunas{
+    font-size: 13px;
+    color: #999999;
+    text-align: center;
+    font-weight: 700;
+}
+.time{
+    font-size: 14px;
+    color: #666666;
+    text-align: left;
+    font-weight: 700;
+}
+.pontos{
+    font-size: 14px;
+    color: black;
+    text-align: center;
+    font-weight: 700;
+}
+td:nth-of-type(2n+3) {
+    background-color: #F7F7F7;       
+  }
+  td:nth-of-type(n+3) {
+    width: 50px;      
+  }
+table tr td{
+    border: none;
+}
+table th{
+    border: none;
+}
+.rodape1{
+    font-size: 10px;
+    color: cor #8F8F8F;
+    text-align: left;
+    margin-left: 20px;
+}
+.rodape2{
+    font-size: 10px;
+    color: #555555;
+    text-align: left;
+    display: inline-block;
+    margin-left: 20px;
+    padding-top: 0px;
+    float: left;
+}

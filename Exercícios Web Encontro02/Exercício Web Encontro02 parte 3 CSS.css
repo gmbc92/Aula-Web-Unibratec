@@ -1,0 +1,26 @@
+#tabela{
+    margin-top: 400px;
+    margin-left: 650px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    width: 600px;
+    height: 150px;
+    background-color: #C7E7F3;
+    font-weight: 700;
+
+}
+#tituloPrincipal{
+    background-color: #0D5188;
+    color: white;
+}
+#subtitulos{
+    background-color: #66C5E3;
+}
+.numeros{
+    background-color: silver;
+    width: 10%;
+}
+.cidade{
+    color:#0D5188;
+    background-color: #C7E7F3;
+}

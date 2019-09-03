@@ -1,0 +1,23 @@
+body{
+
+}
+#select_tarefas{
+    width: 200px;
+    height: 200px;
+    margin-top: 30px;
+}
+#cadastro_tarefas{
+    margin-top: 30px;
+}
+#upgrade_tarefa{
+    margin-top: 50px;
+}
+#deletar_tarefa{
+    margin-top: 30px;
+}
+#limparCampos{
+    margin-top: 10px;
+}
+#tarefasCompletas{
+    margin-top: 30px;
+}
